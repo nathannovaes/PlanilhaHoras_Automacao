@@ -97,14 +97,14 @@ def navegarSistema():
     pyautogui.click(313, 298)
     time.sleep(1)
 
-def buscaBwv7222():
+def buscaVWBXXXX():
     pyautogui.click('C:/Users/Usr/Desktop/ProgramaSat/Placa1.png')
     time.sleep(1)
     veiculo = 'Placa1'
     return veiculo
 
 
-def buscaBxd7222():
+def buscaDXBXXXX():
     pyautogui.click('C:/Users/Usr/Desktop/ProgramaSat/Placa2.png')
     time.sleep(1)
     veiculo = 'Placa2'
@@ -112,14 +112,14 @@ def buscaBxd7222():
 
 
 
-def buscaFns7222():
+def buscaSNFXXXX():
     pyautogui.click('C:/Users/Usr/Desktop/ProgramaSat/Placa3.png')
     time.sleep(1)
     veiculo = 'Placa3'
     return veiculo
 
 
-def buscaFuq3721():
+def buscaQUFXXXX():
     pyautogui.click('C:/Users/Usr/Desktop/ProgramaSat/Placa4.png')
     time.sleep(1)
     veiculo = 'Placa4'
